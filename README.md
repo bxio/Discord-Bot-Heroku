@@ -13,7 +13,17 @@ A dead simple one-click [Discord](https://discordapp.com) bot deployed on [Herok
 ## Caveats
 
 * You'll need a credit card to get enough dynos to run for the entire month unless you are grandfathered in from running an app on Heroku in 2016.
-* Your bot will sleep after 30 mins of inactivity.
-* No voice or music support.
+* Your bot will sleep after [30 mins of inactivity](https://www.heroku.com/pricing#dyno-comparison).
+* No voicechat or music support. (to be added later)
 
-Want to fix the above three points? Get a real host. I recommend [DigitalOcean](https://m.do.co/c/6906a2f19dea) or [Linode](https://www.linode.com/?r=5b3797e6db42b0d37d9a1017f98a48da38185644)
+Want to run 24/7 without the above three caveats? Get a [VPS](https://en.wikipedia.org/wiki/Virtual_private_server). I recommend [AWS](https://aws.amazon.com), [GCP](https://cloud.google.com), [DigitalOcean](https://m.do.co/c/6906a2f19dea) or [Linode](https://www.linode.com/?r=5b3797e6db42b0d37d9a1017f98a48da38185644).
+
+### Contribute
+
+1. Fork this repo.
+2. Make your changes
+3. Submit a pull request.
+
+### License
+
+MIT
