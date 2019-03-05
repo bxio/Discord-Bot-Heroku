@@ -20,9 +20,9 @@ Want to run 24/7 without the above three caveats? Get a [VPS](https://en.wikiped
 
 ### Contribute
 
-1. Fork this repo.
-2. Make your changes
-3. Submit a pull request.
+1. [Fork this repo](https://github.com/bxio/discord-heroku/fork).
+2. Make changes.
+3. Submit a [pull request](https://github.com/bxio/Discord-Heroku/pull/new/master).
 
 ### License
 
