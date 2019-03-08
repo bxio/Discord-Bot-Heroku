@@ -5,10 +5,11 @@ A dead simple one-click [Discord](https://discordapp.com) bot deployed on [Herok
 
 ## How to Bot
 
-1. Create an app at https://discordapp.com/developers. You'll need a discord account, obviously.
+1. Create an app at https://discordapp.com/developers. You'll need a [discord](https://discordapp.com) account, obviously.
 2. Create a bot for the app.
 3. [Deploy this repository to Heroku](https://heroku.com/deploy), then insert the bot token.
-4. Give your app a name, assign dynos, and profit.
+4. Invite your bot to your discord guild
+5. Give your app a name, assign dynos, and profit.
 
 ## Caveats
 
@@ -26,4 +27,4 @@ Want to run 24/7 without the above three caveats? Get a [VPS](https://en.wikiped
 
 ### License
 
-MIT
+[![MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
